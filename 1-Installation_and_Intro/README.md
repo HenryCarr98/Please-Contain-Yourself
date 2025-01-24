@@ -11,7 +11,7 @@ Text that looks `like this --for --example` are commands that you should type in
 
 ---
 
-**Bold text: Gotcas that are gonna getcha if you don't heed this advice**
+**Bold text: Gotchas that are gonna getcha if you don't heed this advice**
 
 **Click on an image if you need a larger view**
 
